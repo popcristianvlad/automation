@@ -1,3 +1,3 @@
 # Google Apps Script
 
-![Alt text](google-script-apps-logo.png)
+![Alt text](google-script-apps.png)
