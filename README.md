@@ -1,3 +1,3 @@
-# Google Apps Script
+# Automation
 
-![Alt text](google-script-apps.png)
+![Alt text](automation.png)
